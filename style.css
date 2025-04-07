@@ -1,0 +1,22 @@
+*{
+    box-sizing: border-box;
+}
+
+
+header{
+    text-align: center;
+}
+
+header div{
+    display: flex;
+    justify-content: space-between;
+}
+
+header ul{
+    list-style: none;
+}
+
+header ul li{
+    display: inline-block;
+    padding: 7px;
+}
